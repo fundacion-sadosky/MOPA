@@ -1,0 +1,4 @@
+# Plataforma de Telemonitoreo – Monitoreo remoto de pacientes crónicos - MOPA
+## Participantes: Virtual Sense + Instituto Superior de Ingeniería de Software de Tandil (ISISTAN) + UNICEN/CONICET Instituto Argentino de Matemáticas Alberto Calderón (IAM) + CONICET
+La iniciativa busca desarrollar la medicina preventiva, ayudando al personal de salud a detectar, sistemática y remotamente, emergencias con pacientes crónicos. La empresa sumará a su plataforma nuevos algoritmos especializados en detección de situaciones como Fibrilación Auricular, elevación del segmento ST, Isquemia o variabilidad de la frecuencia cardíaca. Dichos algoritmos serán alimentados con distintos dispositivos de diagnóstico como termómetros, tensiómetros, etc., y permitirán dar soporte a los procedimientos terapéuticos actuales, incluyendo la dosificación de medicamentos. 
+###### Link a vídeo explicativo del proyecto: https://youtu.be/3dWUfDto4BM 
